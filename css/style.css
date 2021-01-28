@@ -109,14 +109,23 @@ a {
 .who-btm {
     background-color: #F9B640;
     color: #fff;
-}
+ }
+
+ .who-btm:hover {
+       background-color: #62D0DF;
+ }
 
 .what-btm {
     background-color: #F4F9E2;
     color: #F9B640;
 }
+.what-btm:hover {
+    color: #62D0DF;
+}
+
 
 .img-home {
-    margin-left: 589.98px;
+    margin-left: 600.98px;
     margin-top: -768.57px;
 }
+
